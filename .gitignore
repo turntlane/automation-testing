@@ -1,0 +1,5 @@
+google/node_modules/
+google/package-lock.json/
+
+movieList/node_modules/
+movieList/package-lock.json/
